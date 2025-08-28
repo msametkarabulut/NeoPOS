@@ -1,15 +1,15 @@
 # NeoPOS - Modern Barkodlu Satış Otomasyonu
 
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/1.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/2.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/3.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/4.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/5.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/6.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/7.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/8.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/9.png])
-![NeoPOS Tanıtım Görseli]([https://sametkarabulut.com.tr/neopos/10.png])
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/1.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/2.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/3.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/4.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/5.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/6.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/7.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/8.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/9.png)
+![NeoPOS Tanıtım Görseli](https://sametkarabulut.com.tr/neopos/10.png)
 
 **NeoPOS**, perakende işletmeleri, marketler, butikler ve daha fazlası için geliştirilmiş, modern, hızlı ve güvenilir bir barkodlu satış ve stok yönetimi sistemidir. Hem masaüstü uygulaması hem de web platformu üzerinden işinizi her yerden yönetmenize olanak tanır.
 
